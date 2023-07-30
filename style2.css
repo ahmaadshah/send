@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+.main {
+  padding: 30px;
+  border: 1px solid lightblue;
+  box-shadow: 0px 0px 15px 5px lightblue;
+}
+
+.tour {
+  background-color: lightblue;
+  color: white;
+  height: 250px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 70px;
+}
+.fname input {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+.lname {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+.Email {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+.tell {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+.data {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+.q1 {
+  color: lightblue;
+}
+.about {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  margin: 5px 0;
+}
+
+.anvthing {
+  border: 1px solid lightblue;
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+.send {
+  display: block;
+  background-color: blue;
+  color: white;
+  width: 100px;
+  text-align: center;
+  align-items: center;
+}
